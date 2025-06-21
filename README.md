@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🤖 Mavryk DeFi Automation Bot v1.6
 
 Bot otomatis berbasis Node.js untuk menjalankan berbagai operasi DeFi di jaringan **Mavryk AtlasNet** menggunakan Taquito SDK.
@@ -92,4 +92,4 @@ Mavryk Network enthusiast & DeFi automation tinkerer.
 
 ---
 
-```
+
