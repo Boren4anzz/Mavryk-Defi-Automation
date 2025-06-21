@@ -1,6 +1,4 @@
-Berikut adalah `README.md` profesional dan informatif untuk proyekmu **Mavryk-DeFi-Automation**:
 
----
 
 ````markdown
 # 🤖 Mavryk DeFi Automation Bot v1.6
