@@ -11,6 +11,7 @@ Bot otomatis berbasis Node.js untuk menjalankan berbagai operasi DeFi di jaringa
 
 📌 Script ini dibuat untuk penggunaan **pribadi dan terbatas**.  
 Jika kamu tertarik atau ingin tahu lebih lanjut, silakan **DM saya secara langsung**.
+> 👉 [https://t.me/FxcTe](https://t.me/FxcTe)
 
 ---
 
@@ -75,13 +76,6 @@ Semua konfigurasi utama berada langsung di dalam file `main.js`, seperti:
 * `@mavrykdynamics/taquito-signer`
 * `chalk@4`
 * `fs`, `path`
-
----
-
-## ⚠️ Disclaimer
-
-> Tool ini ditujukan untuk **tujuan edukasi, pengujian testnet, dan automasi eksperimen pribadi**.
-> Gunakan dengan **bijak dan tanggung risiko sendiri**. Jangan gunakan private key wallet utama.
 
 ---
 
