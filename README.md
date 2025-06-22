@@ -31,7 +31,7 @@ Jika kamu tertarik atau ingin tahu lebih lanjut, silakan **DM saya secara langsu
 
 1. **Clone repositori:**
    ```bash
-   git clone [https://github.com/username/Mavryk-DeFi-Automation](https://github.com/Boren4anzz/Mavryk-Defi-Automation.git)
+   git clone https://github.com/Boren4anzz/Mavryk-Defi-Automation.git
    cd Mavryk-DeFi-Automation
    ```
 
