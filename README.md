@@ -63,7 +63,7 @@ Dependencies:
 Run the bot using Node.js:
 
 ```bash
-node main.js
+node bot.js
 ```
 
 The script will:
