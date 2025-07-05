@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mavrykdynamics/taquito": "^20.0.2",
+    "@mavrykdynamics/taquito-signer": "^20.0.2",
+    "chalk": "^4.1.2"
+  }
+}
